@@ -1,5 +1,10 @@
 # 🍕 Pizza Sales Dashboard (Tableau)
 
+📊 Interactive dashboard analyzing revenue trends, customer preferences, and sales patterns in pizza business.
+
+![Tableau](https://img.shields.io/badge/Tool-Tableau-blue)
+![Data](https://img.shields.io/badge/Data-CSV-green)
+
 ## 📊 Overview
 
 This project presents an interactive Tableau dashboard analyzing pizza sales data.
