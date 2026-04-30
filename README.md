@@ -24,6 +24,8 @@ This project presents an interactive Tableau dashboard analyzing pizza sales dat
 
 ## 📷 Dashboard Preview
 
-<img width="1468" height="901" alt="Screenshot 2026-04-30 at 1 26 06 PM" src="https://github.com/user-attachments/assets/42c624f0-1060-477e-b340-ffad97c3ed4a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42c624f0-1060-477e-b340-ffad97c3ed4a" width="100%"/>
+</p>
 
 
